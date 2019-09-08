@@ -1,0 +1,24 @@
+            table{
+                border:  5px solid #f134 ;
+                text-align: center ;
+            }
+            td {
+                border  : 5px solid black ;                
+                width: 150px ;
+                height: 150px;
+                text-align:  center ;
+                font-size: 120px ;
+            }
+            .replay button {
+                height: 50px  ;
+                width:  200px;
+                margin-top: 15px ;
+            }   
+            .xo button {
+                font-size: 100px ;
+                height: 150px ;
+                width : 150px ;
+                font-style: italic ;
+                font-family: cursive ;
+                pointer-events: all;
+            }
