@@ -1,5 +1,5 @@
 # TicTacToe
-code a Tic Tac Toe game from scratch in plain HTML, CSS, and JavaScript in a functional way!
+coding a Tic Tac Toe game from scratch in plain HTML, CSS, and JavaScript in a functional way!
 
 ![alt text](xo.JPG)
 
